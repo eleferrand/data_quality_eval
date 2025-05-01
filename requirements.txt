@@ -1,0 +1,6 @@
+Levenshtein
+allosaurus
+torch
+torchaudio
+tqdm
+unidecode
