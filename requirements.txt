@@ -1,6 +1,6 @@
-Levenshtein
-allosaurus
-torch
-torchaudio
+Levenshtein==0.25.1
+allosaurus==1.0.2
+torch==2.4.1
+torchaudio==2.4.1
 tqdm
 unidecode
