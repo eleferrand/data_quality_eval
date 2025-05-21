@@ -66,6 +66,6 @@ If you are using either metrics, please cite our work:
 ```
 ## References
 
-Baevski et al. (2020). wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations.
+Baevski, Alexei, et al. "wav2vec 2.0: A framework for self-supervised learning of speech representations." Advances in neural information processing systems 33 (2020): 12449-12460.
 
-Li et al. (2020). Universal Phone Recognition with Allosaurus.
+Li, Xinjian, et al. "Universal phone recognition with a multilingual allophone system." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
